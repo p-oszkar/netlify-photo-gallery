@@ -1,6 +1,6 @@
-baseURL = "https://netlify-photo-gallery.netlify.com/"
+baseURL = "https://oszkar-photos.netlify.com/"
 languageCode = "en-us"
-title = "Netlify photo gallery"
+title = "Oszkar photo gallery"
 
 [menu]
   [[menu.main]]
